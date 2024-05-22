@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github! I'm currently working on this Github page to use as my Portfolio, feel free to check out my 42 projects.
 
 <!--
 **MrRieff/MrRieff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
