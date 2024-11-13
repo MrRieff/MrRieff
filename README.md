@@ -7,6 +7,4 @@ ________________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=issues,contribs&theme=tokyonight)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrRieff&theme=redical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&layout=compact&theme=tokyonight)
