@@ -27,7 +27,9 @@ ________________________________________________________________________________
 ## 📱 Connect with me
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludvig-johannes-smith-rieff-9a8819242/)" alt="LINKEDIN" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)" alt="Discord" /> 
+  <a href="https://www.linkedin.com/in/ludvig-johannes-smith-rieff-9a8819242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LINKEDIN" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /> 
   MindMega
 </p>
