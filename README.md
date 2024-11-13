@@ -8,3 +8,9 @@ ________________________________________________________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=issues,contribs&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&layout=compact&theme=tokyonight)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
