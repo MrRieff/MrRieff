@@ -12,7 +12,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=contribs&theme=tokyonight&cache_seconds=1800&count_private=true" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&theme=tokyonight&cache_seconds=1800&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&theme=tokyonight&cache_seconds=1800&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 ## 🌐 My programming languages
