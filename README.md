@@ -14,6 +14,7 @@ ________________________________________________________________________________
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&layout=compact&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRieff&count_private=true&cache_seconds=1800)
 
 
 ## 🌐 My programming languages
