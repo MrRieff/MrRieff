@@ -10,11 +10,9 @@ ________________________________________________________________________________
 
 ## 📈 Stats
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=issues,contribs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=issues,contribs&theme=tokyonight&cache_seconds=1800&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRieff&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 
 ## 🌐 My programming languages
