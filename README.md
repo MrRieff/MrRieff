@@ -15,6 +15,11 @@ ________________________________________________________________________________
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&theme=tokyonight&cache_seconds=1800)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=issues,contribs&theme=tokyonight&cache_seconds=1800&count_private=true" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p>
+
 ## 🌐 My programming languages
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
