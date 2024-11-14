@@ -17,12 +17,13 @@ ________________________________________________________________________________
 
 ## 🌐 My programming languages
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
- <p align="center">
+<p align="center">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
- </p>
+   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</p>
 
 ## 📱 Connect with me
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
