@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ## 📈 Stats
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=contribs&theme=tokyonight&cache_seconds=1800&count_private=true" alt="MrRieff's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRieff&show_icons=true&hide=contribs&theme=tokyonight&cache_seconds=1800&count_private=true&token=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" alt="MrRieff's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRieff&theme=tokyonight&cache_seconds=1800&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
