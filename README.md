@@ -32,5 +32,5 @@ ________________________________________________________________________________
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LINKEDIN" />
   </a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /> 
-  MindMega
+  MrRieff
 </p>
